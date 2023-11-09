@@ -1,0 +1,12 @@
+﻿  customer.cpp
+C:\Users\jacki\Downloads\heap stuff\Project1\Project1\heap.hpp(12,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jacki\Downloads\heap stuff\Project1\Project1\heap.hpp(11,36): message : while compiling class template member function 'void Heap<Customer>::_bubbleUp(int)'
+C:\Users\jacki\Downloads\heap stuff\Project1\Project1\heap.hpp(41,30): message : while compiling class template member function 'void Heap<Customer>::insert(T)'
+          with
+          [
+              T=Customer
+          ]
+C:\Users\jacki\Downloads\heap stuff\Project1\Project1\customer.cpp(42,16): message : see the first reference to 'Heap<Customer>::insert' in 'customerQueueTest'
+C:\Users\jacki\Downloads\heap stuff\Project1\Project1\customer.cpp(19,17): message : see reference to class template instantiation 'Heap<Customer>' being compiled
+C:\Users\jacki\Downloads\heap stuff\Project1\Project1\heap.hpp(16,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\jacki\Downloads\heap stuff\Project1\x64\Debug\Project1.exe
