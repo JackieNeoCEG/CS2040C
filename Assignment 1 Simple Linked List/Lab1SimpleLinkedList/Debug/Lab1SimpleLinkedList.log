@@ -1,0 +1,5 @@
+﻿  main.cpp
+  simpleIntLinkedList.cpp
+  Generating Code...
+C:\Users\jacki\Downloads\Lab1SimpleLinkedList (1)\Lab1SimpleLinkedList\Lab1SimpleLinkedList\simpleIntLinkedList.cpp(55): warning C4715: 'List::headItem': not all control paths return a value
+  Lab1SimpleLinkedList.vcxproj -> C:\Users\jacki\Downloads\Lab1SimpleLinkedList (1)\Lab1SimpleLinkedList\Debug\Lab1SimpleLinkedList.exe
